@@ -18,6 +18,14 @@ module.exports = {
         path: '/',
       },
       {
+        label: 'Book Summaries',
+        path: '/books/',
+      },
+      {
+        label: 'Interesting Reads',
+        path: '/reads/',
+      },
+      {
         label: 'About me',
         path: '/about/',
       },
