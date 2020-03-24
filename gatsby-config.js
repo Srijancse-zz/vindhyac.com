@@ -35,7 +35,7 @@ module.exports = {
       email: 'vindhya.c93@gmail.com',
       telegram: '#',
       twitter: 'vindytalks',
-      github: 'vindhyac',
+      github: 'vindhya-c',
       rss: '#',
       vk: '#',
     },

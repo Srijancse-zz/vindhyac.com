@@ -1,7 +1,7 @@
 ---
-title: "Interesting Reads"
+title: "Books"
 layout: page
-path: "/reads"
+path: "/books"
 ---
 
 I am Vindhya and I am awesome.
