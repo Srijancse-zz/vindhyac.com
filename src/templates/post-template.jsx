@@ -13,13 +13,11 @@ class PostTemplate extends React.Component {
 
     return (
       <Layout>
-        <div>
-          <Helmet>
-            <title>{`${postTitle} - ${title}`}</title>
-            <meta name="description" content={description} />
-          </Helmet>
-          <PostTemplateDetails {...this.props} />
-        </div>
+        <Helmet>
+          <title>{`${postTitle} - ${title}`}</title>
+          <meta name="description" content={description} />
+        </Helmet>
+        <PostTemplateDetails {...this.props} />
       </Layout>
     )
   }
