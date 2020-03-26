@@ -153,6 +153,9 @@ figcaption {
 .layout {
   display: flex;
   lost-center: $layout-width;
+  & > div {
+    width: 100%;
+  }
 }
 
 .content {
