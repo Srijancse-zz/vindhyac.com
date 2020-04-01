@@ -9,7 +9,7 @@ module.exports = {
     siteUrl: url,
     title: 'Blog by Vindhya C',
     subtitle:
-      'Always looking for learning opportunities | Fixing all things product and otherwise @clarisights',
+      'Always looking for learning opportunities in product and life.',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [

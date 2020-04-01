@@ -4,6 +4,7 @@ import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Post from '../components/Post'
 import Sidebar from '../components/Sidebar'
+import picture from '../assets/photo.jpg'
 
 class IndexRoute extends React.Component {
   render() {
@@ -20,6 +21,16 @@ class IndexRoute extends React.Component {
           <Helmet>
             <title>{title}</title>
             <meta name="description" content={subtitle} />
+            <meta property="og:type" content="website" />
+            <meta property="og:url" content="https://www.vindhyac.com/" />
+            <meta property="og:title" content="Blog by Vindhya C" />
+            <meta property="og:description" content="Always looking for learning opportunities in product and life." />
+            <meta property="og:image" content={picture} />
+            <meta property="twitter:card" content="summary_large_image" />
+            <meta property="twitter:url" content="https://www.vindhyac.com/" />
+            <meta property="twitter:title" content="Blog by Vindhya C" />
+            <meta property="twitter:description" content="Always looking for learning opportunities in product and life." />
+            <meta property="twitter:image" content={picture} />
           </Helmet>
           <Sidebar {...this.props} />
           <div className="content">
@@ -51,6 +62,7 @@ export const pageQuery = graphql`
           twitter
           github
           rss
+          vk
         }
       }
     }
