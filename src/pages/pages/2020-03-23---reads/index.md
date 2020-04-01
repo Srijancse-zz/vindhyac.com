@@ -6,6 +6,25 @@ path: "/reads"
 
 I gather articles that grab my attention. Send me something I should read. 
 
+## Growth
+
+1. [A guide to growing your user base
+and revenues with lean marketing](http://frederikhermann.com/uploads/beginners_guide_to_growth_hacking.pdf)
+2. [KG Growth Hacks_Dialflow](https://docs.google.com/spreadsheet/ccc?key=0Ajn85SvGlyU4dHkwU0VoRV9zM0FUbFR6bF9TcFVwQUE#gid=0)
+3. [Find out why 3000+ Growth Teams use GrowthHackers Experiments](https://growthhackers.com/)
+4. [Growth Hacking Techniques: A boot-strappers guide to turning $2000 into $2,000,000 in sales in 4 months.](http://www.upshiftpartners.com/growth-hacking-a-boot-strappers-guide-to-turning-2000-into-2000000/)
+5. [Many people say referral marketing programs are effective. Why do very few people have one?](http://www.quora.com/Many-people-say-referral-marketing-programs-are-effective-Why-do-very-few-people-have-one)
+6. [What are the do's and dont's of referral/invite programs?](http://www.quora.com/What-are-the-dos-and-donts-of-referral-invite-programs/answer/Tony-Mariotti)
+7. [An Epic List of 80 Killer Referral Program Examples [+Ideas You Can Steal]](http://blog.referralcandy.com/2013/08/29/47-referral-programs/)
+8. [What were the most interesting takeaways from the Growth Hackers Conference held on October 26th, 2012?](https://www.quora.com/What-were-the-most-interesting-takeaways-from-the-Growth-Hackers-Conference-held-on-October-26th-2012)
+9. [Startup Metrics for Pirates: AARRR!](ttp://500hats.typepad.com/500blogs/2007/09/startup-metrics.html)
+10. [How can I generate website traffic with $0 marketing budget?](https://www.quora.com/How-can-I-generate-website-traffic-with-0-marketing-budget)
+12. [8 Way to Increase Customer Referral Program Participation](http://referralsaasquatch.quora.com/8-Way-to-Increase-Customer-Referral-Program-Participation)
+13. [Science of Growth: A Catalyzing Event to Accelerate Growth](https://medium.com/@SeanAmmirati/science-of-growth-the-second-launch-to-accelerate-growth-fbd662f32c66)
+14. [How 9 SaaS Companies Hacked Their Growth](https://blog.kissmetrics.com/9-saas-companies/)
+15. [35 Growth Hacking Tools for Marketers Who Don’t Code](https://blog.kissmetrics.com/growth-hacking-analytics/)
+17. [Meaningful growth vs metric manipulation](http://blog.intercom.io/meaningful-growth-vs-metric-manipulation/)
+
 ## Product 
 
 1. [Your LTV Math is Wrong](http://bostonvcblog.typepad.com/vc/2015/10/your-ltv-math-is-wrong.html)
@@ -33,7 +52,6 @@ I gather articles that grab my attention. Send me something I should read.
 1. [26 Resources to Help You Master Customer Development Interviews]( http://blog.kissmetrics.com/26-customer-development-resources/)
 1. [Methodology]( http://theleanstartup.com/principles)
 1. [79 Articles and Books that will Make you a Great Product Manager]( https://medium.com/art-of-product-design/aad5babee2f7)
-
 1. [Get One Thing Right]( https://medium.com/startup-tales/89390244c553)
 1. [The Elements of Stickers]( http://a16z.com/2016/06/17/stickers/)
 1. [Using ‘Inflection Points’ to Overcome Fintech Startup Distribution 
@@ -41,35 +59,12 @@ Challenges]( http://a16z.com/2016/05/06/inflection-points-fintech-distribution/)
 1. [Hunting What’s Next in High Tech]( http://a16z.com/2016/03/11/ideas-trends/)
 1. [All about Network Effects]( http://a16z.com/2016/03/07/all-about-network-effects/)
 1. [Sachin Rekhi]( http://www.sachinrekhi.com/3-types-of-product-managers-builders-tuners-innovators)
-
-
 1. [The first rule of prioritization: No snacking]( https://blog.intercom.io/first-rule-prioritization-no-snacking/)
 1. [Conducting User Research to Grow A Business: Our Method and Questions]( http://www.growandconvert.com/marketing/conducting-user-research/)
 1. [How Zendesk onboards new users]( http://www.useronboard.com/how-zendesk-onboards-new-users/?slide=24)
 1. [Focus on These 8 Things to Build Better Products]( https://medium.com/@johnpcutler/focus-on-these-8-things-to-build-better-products-f2344c19602d#.mhhgzdmr9)
 1. [What You Can Do to Simplify Your Products]( https://medium.com/pm-insights/what-you-can-do-to-simplify-your-products-e06c44a08566#.x9dvfqk07)
-
-
 1. [Design in the age of entanglement]( https://blog.intercom.io/design-in-the-age-of-entanglement/)
-
-## Growth
-
-1. [A guide to growing your user base
-and revenues with lean marketing](http://frederikhermann.com/uploads/beginners_guide_to_growth_hacking.pdf)
-2. [KG Growth Hacks_Dialflow](https://docs.google.com/spreadsheet/ccc?key=0Ajn85SvGlyU4dHkwU0VoRV9zM0FUbFR6bF9TcFVwQUE#gid=0)
-3. [Find out why 3000+ Growth Teams use GrowthHackers Experiments](https://growthhackers.com/)
-4. [Growth Hacking Techniques: A boot-strappers guide to turning $2000 into $2,000,000 in sales in 4 months.](http://www.upshiftpartners.com/growth-hacking-a-boot-strappers-guide-to-turning-2000-into-2000000/)
-5. [Many people say referral marketing programs are effective. Why do very few people have one?](http://www.quora.com/Many-people-say-referral-marketing-programs-are-effective-Why-do-very-few-people-have-one)
-6. [What are the do's and dont's of referral/invite programs?](http://www.quora.com/What-are-the-dos-and-donts-of-referral-invite-programs/answer/Tony-Mariotti)
-7. [An Epic List of 80 Killer Referral Program Examples [+Ideas You Can Steal]](http://blog.referralcandy.com/2013/08/29/47-referral-programs/)
-8. [What were the most interesting takeaways from the Growth Hackers Conference held on October 26th, 2012?](https://www.quora.com/What-were-the-most-interesting-takeaways-from-the-Growth-Hackers-Conference-held-on-October-26th-2012)
-9. [Startup Metrics for Pirates: AARRR!](ttp://500hats.typepad.com/500blogs/2007/09/startup-metrics.html)
-10. [How can I generate website traffic with $0 marketing budget?](https://www.quora.com/How-can-I-generate-website-traffic-with-0-marketing-budget)
-12. [8 Way to Increase Customer Referral Program Participation](http://referralsaasquatch.quora.com/8-Way-to-Increase-Customer-Referral-Program-Participation)
-13. [Science of Growth: A Catalyzing Event to Accelerate Growth](https://medium.com/@SeanAmmirati/science-of-growth-the-second-launch-to-accelerate-growth-fbd662f32c66)
-14. [How 9 SaaS Companies Hacked Their Growth](https://blog.kissmetrics.com/9-saas-companies/)
-15. [35 Growth Hacking Tools for Marketers Who Don’t Code](https://blog.kissmetrics.com/growth-hacking-analytics/)
-17. [Meaningful growth vs metric manipulation](http://blog.intercom.io/meaningful-growth-vs-metric-manipulation/)
 
 ## Marketing and Sales
 
