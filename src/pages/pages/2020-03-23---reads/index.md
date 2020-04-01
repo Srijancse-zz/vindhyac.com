@@ -4,13 +4,15 @@ layout: page
 path: "/reads"
 ---
 
+I gather articles that grab my attention. Send me something I should read. 
+
 ## Product 
 
-1. http://bostonvcblog.typepad.com/vc/2015/10/your-ltv-math-is-wrong.html
-1. http://firstround.com/review/opentables-ceo-on-how-to-dodge-company-breakdown-as-you-scale/
-1. https://medium.com/the-biz-stone-collection/ceo-advice-from-a-new-ceo-1ecfe8ed9b70#.mwav21yxh
-1. http://abovethecrowd.com/2011/05/24/all-revenue-is-not-created-equal-the-keys-to-the-10x-revenue-club/
-1. http://firstround.com/review/take-on-your-competition-with-these-lessons-from-google-maps/
+1. [Your LTV Math is Wrong](http://bostonvcblog.typepad.com/vc/2015/10/your-ltv-math-is-wrong.html)
+1. [OpenTable's CEO on How to Dodge Company Breakdown as You Scale](http://firstround.com/review/opentables-ceo-on-how-to-dodge-company-breakdown-as-you-scale/)
+1. [CEO Advice from a New CEO](https://medium.com/the-biz-stone-collection/ceo-advice-from-a-new-ceo-1ecfe8ed9b70#.mwav21yxh)
+1. [All Revenue is Not Created Equal: The Keys to the 10X Revenue Club](http://abovethecrowd.com/2011/05/24/all-revenue-is-not-created-equal-the-keys-to-the-10x-revenue-club/)
+1. [Take on Your Competition with These Lessons from Google Maps](http://firstround.com/review/take-on-your-competition-with-these-lessons-from-google-maps/)
 1. http://firstround.com/review/square-defangs-difficult-decisions-with-this-system-heres-how/
 1. https://medium.com/@gerstenzang/retroactively-bundled-cd9c05475bc7#.s0b4huaa9
 1. https://readthink.com/scale-up-leadership-lessons-i-ve-learned-over-9-years-as-hubspot-s-ceo-39521f5b7567
@@ -354,3 +356,64 @@ SEO/Content Marketing
 1. http://firstround.com/review/The-anatomy-of-the-perfect-technical-interview-from-a-former-Amazon-VP/
 1. http://firstround.com/review/The-Best-Approach-to-the-Worst-Conversation/
 1. http://firstround.com/review/Keith-Rabois-on-the-role-of-a-COO-how-to-hire-and-why-transparency-matters/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
