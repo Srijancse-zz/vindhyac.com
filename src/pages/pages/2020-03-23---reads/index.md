@@ -18,7 +18,7 @@ I gather articles that grab my attention. Send me something I should read.
 1. [Scale-up Leadership Lessons I’ve Learned Over 9 Years as HubSpot’s CEO
 ]( https://readthink.com/scale-up-leadership-lessons-i-ve-learned-over-9-years-as-hubspot-s-ceo-39521f5b7567)
 1. [Guide: Set goals with OKRs
-]( https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/)"
+]( https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/)
 1. [Transitioning to meta-management]( http://larahogan.me/blog/transition-meta-management)
 1. [Above the Crowd]( http://abovethecrowd.com/2014/07/11/how-to-miss-by-a-mile-an-alternative-look-at-ubers-potential-market-size/)
 1. [Product Roadmap]( http://docs.hotjar.com/page/roadmap)
