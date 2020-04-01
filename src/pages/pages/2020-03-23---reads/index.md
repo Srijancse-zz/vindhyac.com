@@ -183,109 +183,50 @@ Impossible To Use)]( https://mattermark.com/irr-important-vc-performance-metric-
 
 SEO/Content Marketing
 
-1. http://searchengineland.com/seotable
-1. http://assets.unbounce.com/s/images/noob-guide-to-marketing-infographic-1800.png
-1. http://www.quicksprout.com/2014/01/20/7-smart-ways-to-combine-content-marketing-with-seo-for-more-qualified-search-traffic/
-1. https://moz.com/blog/10-illustrations-on-search-engines-valuation-of-links
-1. http://backlinko.com/skyscraper-technique
-1. https://www.reddit.com/r/SEO/comments/2y1r8z/rseo_sucks_lately_i_want_to_make_it_better_here/
-1. http://backlinko.com/17-untapped-backlink-sources
-1. http://backlinko.com/google-ranking-factors
-1. http://www.moneyjournal.com/seo-checklist/
-1. https://www.reddit.com/r/SEO/comments/27e9tl/list_of_seo_guides_for_beginners/
-1. https://support.google.com/webmasters/answer/40349?hl=en&ref_topic=2370419
-1. http://www.quicksprout.com/the-advanced-guide-to-seo-chapter-1/
-1. http://searchenginewatch.com/sew/opinion/2426543/gaming-google-in-2015
-1. http://kaiserthesage.com/inbound-marketing-cheat-sheets/
-1. http://nenadseo.com/new-seo/
-1. https://blog.kissmetrics.com/recover-from-any-google-penalty/
-1. http://searchengineland.com/schema-markup-structured-data-seo-opportunities-site-type-231077
-1. https://blog.kissmetrics.com/4-seo-data-reports/
-1. https://blog.kissmetrics.com/content-marketing-ideas/
-1. http://blog.statuspage.io/we-owe-25-of-our-growth-to-one-line-of-code
-1. http://www.pierrelechelle.com/inaccurate-traffic-sources
-1. http://www.mattersolutions.com.au/blog/2014/07/quick-seo-wins/
-1. https://blog.kissmetrics.com/james-bond-of-the-web/
-1. http://jordanvh.com/portfolios/ultimate-content-promotion-checklist/
-1. http://neilpatel.com/2015/10/18/the-advanced-guide-to-user-behavior-data-and-how-it-affects-search-rankings/
-1. https://www.searchcandy.uk/seo/brightonseo-2015-speaker-slide-decks/
-1. http://www.quicksprout.com/2015/09/18/14-examples-of-truly-epic-content-how-does-yours-stack-up/
-1. http://searchengineland.com/making-strategic-decisions-difficult-get-backlinks-233422
-1. https://www.branded3.com/blog/seo-considerations-moving-http-1. https/
-1. https://moz.com/blog/mega-serp-a-visual-guide-to-google
-1. http://blog.wishpond.com/post/79170755642/21-ways-how-to-create-landing-page-google-adword
-1. http://www.webgnomes.org/blog/grantland-seo-audit-example/
-1. http://moovweb.com/blog/mobile-friendly-sites-dominate-google-search-results
-1. http://searchism.org/seo-case-study-pharma/
-1. http://www.elite-strategies.com/illustrated-history-blackhat-seo/
-1. https://www.portent.com/blog/internet-marketing/research-site-speed-hurting-everyones-revenue.htm
-1. http://growthhackers.com/slides/how-to-get-seo-roi-from-content-marketing
-1. http://wooguru.net/blog/ecommerce-link-building/
-1. http://www.quicksprout.com/2015/06/22/the-day-after-11-things-to-do-after-you-publish-a-post/
-1. http://elumynt.com/the-seo-food-pyramid/
-1. http://backlinko.com/seo-techniques
-1. https://growthhackers.com/slides/slides-seo-conversion-strategies
-1. http://www.matthewwoodward.co.uk/experiments/backlink-checkers-compared-ahrefs-majestic-seo-seomoz-raven-tools-seo-spyglass/
-1. http://www.verveuk.eu/seo/25-of-the-best-free-seo-tools/
-1. http://www.sawwebmarketing.com/massive-guide-to-dominating-google/
-1. http://backlinko.com/seo-tools
-1. http://pointblankseo.com/link-building-strategies
-1. http://davidbutler.co/blog/does-manipulating-serp-ctr-influence-organic-rankings/
-1. http://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/searchqualityevaluatorguidelines.pdf
-1. http://www.webgnomes.org/blog/seo-tips/
-1. https://moz.com/learn/seo/page-speed
-1. https://moz.com/blog/technical-seo-log-analysis
-1. https://ma.ttias.be/technical-guide-seo/
-1. https://developers.google.com/speed/pagespeed/insights/?url=www.Craftsvilla.com
-1. http://seosherpa.com/seo-experiments/
-1. http://blog.hubstaff.com/20-seo-tips-experts/
-1. http://www.linkbuildingbook.com/link-building-resources.html
-1. https://www.searchenginejournal.com/create-actionable-kpi-dashboard-save-time-manage-seo-better/139508/?utm_campaign=Submission&utm_medium=Community&utm_source=GrowthHackers.com?utm_campaign=Submission&utm_medium=Community&utm_source=GrowthHackers.com
-1. http://www.link-assistant.com/news/google-updates.html
-1. https://www.webpagetest.org/
-1. http://www.viperchill.com/link-building-2016/
-1. http://www.viperchill.com/widget-algorithm/
-1. http://www.viperchill.com/blog-network/
-1. http://backlinko.com/search-engine-ranking
-1. http://firstround.com/review/the-seo-tips-that-helped-tally-20-million-visits-a-month/
-1. https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/searchqualityevaluatorguidelines.pdf
-1. http://backlinko.com/seo-checklist
-1. https://support.google.com/webmasters/answer/35769?hl=en#3
-1. http://www.blackhatworld.com/
-1. http://stormproxies.com/
-1. https://ahrefs.com/blog/get-backlinks/
-1. https://www.getvero.com/resources/guides/tripadvisors-unfair-advantage/
-1. https://medium.com/@samdebrule/a-humans-guide-to-machine-learning-e179f43b67a0
-1. https://library.gv.com/questions-to-ask-before-starting-user-research-4607c2633f6f#.xya7qqlhf
-1. https://library.gv.com/improve-your-startup-s-surveys-and-get-even-better-data-7b0272f74c23#.pz79moldc
-1. http://firstround.com/review/the-adjective-number-things-you-need-to-know-about-clickbait/
-
+1. [14 Examples of Truly “Epic” Content: How Does Yours Stack Up?]( http://www.quicksprout.com/2015/09/18/14-examples-of-truly-epic-content-how-does-yours-stack-up/)
+1. [32 #BrightonSEO 2015 Slide Decks]( https://www.searchcandy.uk/seo/brightonseo-2015-speaker-slide-decks/)
+1. [7 Smart Ways to Combine Content Marketing with SEO for More Qualified 
+Search Traffic]( http://www.quicksprout.com/2014/01/20/7-smart-ways-to-combine-content-marketing-with-seo-for-more-qualified-search-traffic/)
+1. [70 Inbound Marketing Checklists]( http://kaiserthesage.com/inbound-marketing-cheat-sheets/)
+1. [BlackHatWorld]( http://www.blackhatworld.com/)
+1. [How to Create an Actionable KPI Dashboard to Save Time & Manage Your SEO 
+Better]( https://www.searchenginejournal.com/create-actionable-kpi-dashboard-save-time-manage-seo-better/139508/?utm_campaign=Submission&utm_medium=Community&utm_source=GrowthHackers.com?utm_campaign=Submission&utm_medium=Community&utm_source=GrowthHackers.com)
+1. [How to Recover From Any Google Penalty]( https://blog.kissmetrics.com/recover-from-any-google-penalty/)
+1. [How User Behavior Affects SEO]( http://neilpatel.com/2015/10/18/the-advanced-guide-to-user-behavior-data-and-how-it-affects-search-rankings/)
+1. [Link Building Case Study: How I Increased My Search Traffic by 110% in 14 
+Days]( http://backlinko.com/skyscraper-technique)
+1. [Link Building Strategies: The Complete List]( http://pointblankseo.com/link-building-strategies)
+1. [Making Strategic Decisions About Difficult-To-Get Backlinks]( http://searchengineland.com/making-strategic-decisions-difficult-get-backlinks-233422)
+1. [Page Speed]( https://moz.com/learn/seo/page-speed)
+1. [Questions to ask before starting user research]( https://library.gv.com/questions-to-ask-before-starting-user-research-4607c2633f6f#.xya7qqlhf)
+1. [SEO considerations when moving from HTTP to HTTPS]( https://www.branded3.com/blog/seo-considerations-moving-http-https/)
+1. [Site Speed is (Still) Impacting Your Conversion Rate]( https://www.portent.com/blog/internet-marketing/research-site-speed-hurting-everyones-revenue.htm)
+1. [Steps to a Google-friendly site]( https://support.google.com/webmasters/answer/40349?hl=en&ref_topic=2370419)
+1. [The Complete SEO Checklist For 2020]( http://backlinko.com/seo-checklist)
+1. [The Most Actionable SEO Tips Ever]( http://www.webgnomes.org/blog/seo-tips/)
+1. [The Periodic Table of SEO Factors]( http://searchengineland.com/seotable)
+1. [The SEO Tips That Helped Tally 20 Million Visits A Month]( http://firstround.com/review/the-seo-tips-that-helped-tally-20-million-visits-a-month/)
+1. [TripAdvisor’s Unfair Email Marketing Advantage]( https://www.getvero.com/resources/guides/tripadvisors-unfair-advantage/)
+1. [You Just Published a Blog Post. Here Are the 14 Things You Need to Do Next.]( http://www.quicksprout.com/2015/06/22/the-day-after-11-things-to-do-after-you-publish-a-post/)
 
 ##HR/Culture
 
-1. https://medium.com/@robbieallen/start-traditions-that-won-t-last-4aa49abaf6e4#.t8x76pl61
-1. https://medium.com/@bethsheffnerscheer/the-maybe-pile-3e807e346eac
-1. http://firstround.com/review/the-only-onboarding-timeline-youll-need-from-offer-to-first-friday/
-1. http://firstround.com/review/facebooks-vp-of-tech-communications-on-building-a-bulletproof-comms-strategy/
-1. https://m.signalvnoise.com/employee-benefits-at-basecamp-d2d46fd06c58#.56leqw4fe
-1. https://medium.com/swlh/how-to-hire-34f4ded5f176
-1. http://randsinrepose.com/archives/shields-down/
-1. http://www.startlaunchgrow.com/how-to-build-an-amazing-culture-for-startup-success/
-1. http://www.entrepreneur.com/article/253067
-1. http://firstround.com/article/Mine-Your-Network-for-Early-Stage-Hiring-Gold
-1. http://firstround.com/review/this-is-how-coursera-competes-against-google-and-facebook-for-the-best-talent/
-1. http://firstround.com/review/the-simple-numbers-that-could-change-how-you-hire/
-1. http://firstround.com/review/how-to-consistently-hire-remarkable-data-scientists/
-1. https://www.gv.com/lib/the-science-of-building-a-scalable-sales-team
-1. http://firstround.com/review/Employee-Onboarding-at-Startups-Is-Broken-Heres-How-to-Fix-It/
-1. http://www.inc.com/young-entrepreneur-council/8-ideas-for-making-your-onboarding-process-more-efficient.html?cid=sf01001
-1. http://firstround.com/review/one-rubric-changed-boxs-engineering-performance-heres-how/
-1. http://firstround.com/review/bureaucracy-isnt-inevitable-heres-how-airbnb-beat-it/
-1. http://firstround.com/review/What-Scott-Cook-Wished-He-Knew-About-Being-a-CEO-When-He-Founded-Intuit/
-1. http://firstround.com/review/The-anatomy-of-the-perfect-technical-interview-from-a-former-Amazon-VP/
-1. http://firstround.com/review/The-Best-Approach-to-the-Worst-Conversation/
-1. http://firstround.com/review/Keith-Rabois-on-the-role-of-a-COO-how-to-hire-and-why-transparency-matters/
-
+1. [8 Ideas for Making Your Onboarding Process More Efficient]( http://www.inc.com/young-entrepreneur-council/8-ideas-for-making-your-onboarding-process-more-efficient.html?cid=sf01001)
+1. [Employee Onboarding at Startups Is Broken – Here’s How to Fix It]( http://firstround.com/review/Employee-Onboarding-at-Startups-Is-Broken-Heres-How-to-Fix-It/)
+1. [Facebook's VP of Tech Communications on Building a Bulletproof Comms 
+Strategy]( http://firstround.com/review/facebooks-vp-of-tech-communications-on-building-a-bulletproof-comms-strategy/)
+1. [Start Traditions That Won’t Last]( https://medium.com/@robbieallen/start-traditions-that-won-t-last-4aa49abaf6e4#.t8x76pl61)
+1. [The Anatomy of the Perfect Technical Interview from a Former Amazon VP]( http://firstround.com/review/The-anatomy-of-the-perfect-technical-interview-from-a-former-Amazon-VP/)
+1. [The Best Approach to the Worst Conversation: "You're Fired"]( http://firstround.com/review/The-Best-Approach-to-the-Worst-Conversation/)
+1. [The Best Hires Are Right Under Your Nose - Use This System to Never Miss 
+Them Again]( http://firstround.com/article/Mine-Your-Network-for-Early-Stage-Hiring-Gold)
+1. [The Maybe Pile]( https://medium.com/@bethsheffnerscheer/the-maybe-pile-3e807e346eac)
+1. [The Only Onboarding Timeline You’ll Need: From Offer to First Friday]( http://firstround.com/review/the-only-onboarding-timeline-youll-need-from-offer-to-first-friday/)
+1. [The science of building a scalable sales team]( https://www.gv.com/lib/the-science-of-building-a-scalable-sales-team)
+1. [This is How Coursera Competes Against Google and Facebook for the Best 
+Talent]( http://firstround.com/review/this-is-how-coursera-competes-against-google-and-facebook-for-the-best-talent/)
+1. [What Scott Cook Wished He Knew About Being a CEO When He Founded Intuit]( http://firstround.com/review/What-Scott-Cook-Wished-He-Knew-About-Being-a-CEO-When-He-Founded-Intuit/)
+1. [Why Every Company Needs a Dream Manager]( http://www.entrepreneur.com/article/253067)
 
 
 
