@@ -9,7 +9,7 @@ Hi, Welcome to my internet home :) Here you will find a little snippet of my ner
 
 If you landed here without knowing me at all, here is a little something. 
 
-I worked as a software developer for a while at ITC, wher I did semi-cool stuff for various iOS apps while my time there. I quickly realised, I was intrigued by other parts of the business than engineering. So I made the switch and became what everyone that cannot be an amazing engineer becomes - An **okayish** product manager. 
+I worked as a software developer for a while at ITC, where I did semi-cool stuff for various iOS apps. I quickly realised, I was intrigued by other parts of the business than engineering. So I made the switch and became what everyone that cannot be an amazing engineer becomes - An **okayish** product manager. 
 
 I have worked on **Next Billion Users**, built for India, worked in consumer high growth teams, in SaaS products that focussed on India & products that dabbled outside India too. I have dabbled in ASO, growth, user testing, preparing go-to-market strategies, elaborate content startegies and customer relations. 
 

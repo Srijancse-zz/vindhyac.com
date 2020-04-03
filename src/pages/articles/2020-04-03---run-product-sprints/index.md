@@ -8,7 +8,7 @@ category: "Product"
 tags:
   - "Product Management"
   - "Learnings"
-description: "You all have heard of the design sprint if you have not, read more here.  It was introduced inside Google & has been widely adapted, however working with this book has enabled me to think of a  product sprint inspired by this, Let me explain how it would work.""
+description: "You all have heard of the design sprint if you have not, read more here.  It was introduced inside Google & has been widely adapted, however working with this book has enabled me to think of a  product sprint inspired by this, Let me explain how it would work."
 ---
 
 You all have heard of the design sprint if you have not, read more [here](https://www.thesprintbook.com/how).  It was introduced inside Google & has been widely adapted, however working with this book has enabled me to think of a product sprint inspired by this, let me explain how it would work.
