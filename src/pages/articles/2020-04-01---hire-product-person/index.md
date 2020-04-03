@@ -27,7 +27,7 @@ A lot of first time founders or non seasoned technical founders will want to hir
 
 Wait, if I am telling you when not to hire, maybe I should also tell you when you should hire one :)
 
-4. **Hire when you have P/M fit**:
+4. **Hire when you have PM fit**:
 
 You have scaled enough to know there is traction, there is demand & definitely a market for what your product can do. You are struggling to know what you should prioritize and build, however you have things in the pipeline that you would like to try & all your customers are eager for it.  
 
