@@ -127,12 +127,6 @@ module.exports = {
     'gatsby-transformer-sharp',
     'gatsby-plugin-sharp',
     {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-        icon: `src/assets/photo.jpg`,
-      },
-    },
-    {
       resolve: 'gatsby-plugin-google-analytics',
       options: { trackingId: 'UA-161842575-1' },
     },
