@@ -42,7 +42,7 @@ Probably not to your face, but your team will begin showing you signs. The engin
 
 Not always, maybe most of these functions were being handled by you, as founder & now they are getting too much & you need someone to come in and handle this for you. Not to take it off your hands, PM is not a fixer of all things but sometimes you need data, structure, A/B tests, user tests, better NPS and better documentation to keep your startup sane & healthy that is when you get your first zero to one product person. 
 
-
+How do you plan to make your first hire or how did you make it? Did you carefully consider this critical hire? Do you think you would hire a senior person, or a junior eager to learn the ropes. Every hire brings potential questions Id love to know how you navigate through this. Let me know on [twitter](https://www.twitter.com/vindytalks) :)
 
 
 
