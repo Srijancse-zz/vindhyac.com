@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.vindhyac.com/about</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.vindhyac.com/posts/clubhouse-for-india/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.vindhyac.com/tags/product-management/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.vindhyac.com/tags/strategy/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.vindhyac.com/categories/product/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.vindhyac.com/posts/run-product-sprints/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.vindhyac.com/tags/learnings/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.vindhyac.com/posts/hire-product-person/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.vindhyac.com/posts/urbanclap-head-next/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.vindhyac.com/posts/what-features-to-develop-next/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.vindhyac.com/posts/pm-at-high-growth-startup/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.vindhyac.com/posts/learnings-from-headspace/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.vindhyac.com/books</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.vindhyac.com/posts/product-company-vs-service-company/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.vindhyac.com/tags/product-vs-service/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.vindhyac.com/reads</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.vindhyac.com/posts/how-did-i-get-into-prod-management/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.vindhyac.com/categories/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.vindhyac.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.vindhyac.com/tags/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+</urlset>
