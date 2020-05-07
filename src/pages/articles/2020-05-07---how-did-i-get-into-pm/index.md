@@ -33,8 +33,7 @@ So, now he knew I was serious. I also knew I was serious, I knew this is what I 
 So i had the prep work done, now I needed a way to get into doing some product stuff. I didn't know where to start. So, I wrote a four-page document on content strategy for growth & sent it to the CEO & product head. I thought I did a great job(lol) but I barely got a response. So I decided there was no reason to wait around that I should probably interview. That is how, Loco happened. Loco was a - live streaming quiz platform. The tech seemed amazing, I had read a lot on live streaming, the team seemed very small ( this was before the acquisition). They didn't have a team or an opening, but I wrote to Abhishek on Facebook! Because at this stage I didn't 
 Even know what twitter could help me achieve! I wrote a really long message, but here is what it concentrated on.  
 
-<center>![Screenshot](./1.jpg)</center>
-
+![Screenshot](./1.jpg)
 
 He asked me to send in my resume, in two days I interviewed and the third day I had an offer, which now I know happened after a discussion with Manas as well. Loco was where I learned so much I was reading hands-on. I meant some very talented people here, but most important people I learned from were - Sushil ( one of the cofounders at Loco) he would deep dive into all topics he cared about & was very focussed on his learning. I also learned quite a bit from Obvious - a design agency we had worked with to redesign Loco. I remember meeting Rahul here & realizing how little I knew about everything design. Vikalp, at Obvious, was the designer I got a chance to work with & my first interaction with him, like all my previous phases - I said - “ I know nothing about design, what should I learn?” I had obviously asked this question to every designer I met, but he was the first one to send me so much reading material! But, needless to say everyone I worked with taught me something, and I am not just simply saying that. 
 
