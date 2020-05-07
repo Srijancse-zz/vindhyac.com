@@ -1,5 +1,5 @@
 ---
-title: How did I get into Product Management? 
+title: How I got into Product Management - A brief story 
 date: "2020-05-07T10:30:37.121Z"
 layout: post
 draft: false
