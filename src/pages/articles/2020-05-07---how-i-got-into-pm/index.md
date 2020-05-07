@@ -3,7 +3,7 @@ title: How I got into Product Management - A brief story
 date: "2020-05-07T10:30:37.121Z"
 layout: post
 draft: false
-path: "/posts/how-did-i-get-into-pm/"
+path: "/posts/how-i-got-into-pm/"
 category: "Product"
 tags:
   - "Product Management"
@@ -17,7 +17,7 @@ Anyway, I would like to think I was decent at engineering, I graduated with a ca
 
 I had no idea what product management was at this time. Zero idea. I got into a role at Directi (a company I didn't know was a big deal back then). The role was - Project Management. Since I was at a service - based company, the project managers did most of the business things. The documents, managing team, deciding what to build etc. So in my naive sense, I thought I had the job I wanted. Turns out, it was not. A month into JIRA boards and pinging people if they had finished their tasks, I had realised this was not for me. I was very good at it, though I am told. But, I really liked Directi. I loved the energy, amazing talented folks & great knowledge all around. I took another month to learn all things product. What really helped me was my friendship with the nicest person I could find at work - Sanya! She is a senior designer at Uber now, but back then she was a product manager with Directi. I moved my seating ( I think the best thing I did) to where she sits aka product team sat. I would peep into what they did, asked the silliest questions & asked everyone to teach me something. 
 
-I would go to everyone in the product & design team and say - “ Can you teach me how you did that? That is very cool.” In hindsight, I think it was very silly of me but I really did not know better. So, one day Manas ( the twitter’s favourite PM) sat across me and I said the same thing - “Teach me what you do.” If you don't know him, Manas was not an easy person to get help from, but he was also very to the point. He would always gauge if you were putting in the effort, if you had passion and would probably only then even have a conversation with you. So in a very Manas way & I quote him verbatim, he said : 
+I would go to everyone in the product & design team and say - “ Can you teach me how you did that? That is very cool.” In hindsight, I think it was very silly of me but I really did not know better. So, one day [Manas](https://twitter.com/manas_saloi) ( the twitter’s favourite PM) sat across me and I said the same thing - “Teach me what you do.” If you don't know him, Manas was not an easy person to get help from, but he was also very to the point. He would always gauge if you were putting in the effort, if you had passion and would probably only then even have a conversation with you. So in a very Manas way & I quote him verbatim, he said : 
 
 >“Well, if you really want to be a PM, read this - Cracking the PM interview first, you will learn what all is asked in every interview, once you get that & understand the complexity then we can talk” 
 
@@ -35,12 +35,13 @@ Even know what twitter could help me achieve! I wrote a really long message, but
 
 ![Screenshot](./1.jpg)
 
-He asked me to send in my resume, in two days I interviewed and the third day I had an offer, which now I know happened after a discussion with Manas as well. Loco was where I learned so much I was reading hands-on. I meant some very talented people here, but most important people I learned from were - Sushil ( one of the cofounders at Loco) he would deep dive into all topics he cared about & was very focussed on his learning. I also learned quite a bit from Obvious - a design agency we had worked with to redesign Loco. I remember meeting Rahul here & realizing how little I knew about everything design. Vikalp, at Obvious, was the designer I got a chance to work with & my first interaction with him, like all my previous phases - I said - “ I know nothing about design, what should I learn?” I had obviously asked this question to every designer I met, but he was the first one to send me so much reading material! But, needless to say everyone I worked with taught me something, and I am not just simply saying that. 
+He asked me to send in my resume, in two days I interviewed and the third day I had an offer, which now I know happened after a discussion with Manas as well. Loco was where I learned so much I was reading hands-on. I meant some very talented people here, but most important people I learned from were - [Sushil](https://twitter.com/Sushilk91) ( one of the cofounders at Loco) he would deep dive into all topics he cared about & was very focused on his learning. I also learned quite a bit from Obvious - a design agency we had worked with to redesign Loco. I remember meeting [Rahul](https://twitter.com/gonsalves_r) here & realizing how little I knew about everything design. [Vikalp](https://twitter.com/vikxlp), at Obvious, was the designer I got a chance to work with & my first interaction with him, like all my previous phases - I said - “ I know nothing about design, what should I learn?” I had obviously asked this question to every designer I met, but he was the first one to send me so much reading material! But, needless to say everyone I worked with taught me something, and I am not just simply saying that. 
 
-Ok so, if you made it this far, here is my closing advice. 
- Read the book 
- Try writing a product spec and pitch internally at where you work
-Reach out to people who you think will be able to help, but do some homework. Don't just ask - “How do I become a PM” instead ask - “ Hey, I read this & as a PM I would do this. What do you think? Am I doing this right?” 
+Ok so, if you made it this far, here is my closing advice:
+
+1. Read the book 
+2. Try writing a product spec and pitch internally at where you work
+3. Reach out to people who you think will be able to help, but do some homework. Don't just ask - “How do I become a PM” instead ask - “ Hey, I read this & as a PM I would do this. What do you think? Am I doing this right?” 
 
 When the founders at Loco asked Manas about me, I remember he told them I had a great bias for action. That is exactly what you need - Take action & pursue it. Lots of - how to guides on getting into PM, but I will write a longer one and link it here as well, if you are interested, I will post about it - [@vindytalks](https://twitter.com/vindytalks)
 
