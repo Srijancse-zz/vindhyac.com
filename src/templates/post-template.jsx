@@ -3,6 +3,7 @@ import Helmet from 'react-helmet'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import PostTemplateDetails from '../components/PostTemplateDetails'
+import picture from '../assets/photo.jpg'
 
 class PostTemplate extends React.Component {
   render() {
@@ -10,12 +11,22 @@ class PostTemplate extends React.Component {
     const post = this.props.data.markdownRemark
     const { title: postTitle, description: postDescription } = post.frontmatter
     const description = postDescription !== null ? postDescription : subtitle
-
+    const postUrl = this.props.location.href
     return (
       <Layout>
         <Helmet>
           <title>{`${postTitle} - ${title}`}</title>
-          <meta name="description" content={description} />
+          <meta name="description" content={subtitle} />
+          <meta property="og:type" content="website" />
+          <meta property="og:url" content={postUrl} />
+          <meta property="og:title" content="Blog by Vindhya C" />
+          <meta property="og:description" content={description} />
+          <meta property="og:image" content={picture} />
+          <meta property="twitter:card" content="summary_large_image" />
+          <meta property="twitter:url" content={postUrl} />
+          <meta property="twitter:title" content="Blog by Vindhya C" />
+          <meta property="twitter:description" content={subtitle} />
+          <meta property="twitter:image" content={picture} />
         </Helmet>
         <PostTemplateDetails {...this.props} />
       </Layout>
