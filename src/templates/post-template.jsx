@@ -24,7 +24,7 @@ class PostTemplate extends React.Component {
           <meta property="og:image" content={picture} />
           <meta property="twitter:card" content="summary_large_image" />
           <meta property="twitter:url" content={postUrl} />
-          <meta property="twitter:title" content="Blog by Vindhya C" />
+          <meta property="twitter:title" content={title} />
           <meta property="twitter:description" content={subtitle} />
           <meta property="twitter:image" content={picture} />
         </Helmet>
