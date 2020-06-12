@@ -1,4 +1,17 @@
-**What should a junior PM focus on?**
+title: What should a junior PM focus on?  
+date: "2020-06-12T10:30:37.121Z"
+layout: post
+draft: false
+path: "/posts/what-should-a-junior-pm-focus-on/"
+category: "Product"
+tags:
+
+- "Product Management"
+  description: "If you just landed your first job,here is a short list of things you should get on right away"
+
+
+
+
 Congrats, you landed your first job as a PM. Now what? (Yeah, that is all the introduction I am writing because who is reading intro?) 
 
 **1. Be proactive**
