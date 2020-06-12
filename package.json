@@ -1,7 +1,7 @@
 {
   "version": "3.0.0",
   "name": "Vindhya Website",
-  "description": "",
+  "description": "Vin's Personal Website",
   "main": "n/a",
   "scripts": {
     "develop": "gatsby develop",
