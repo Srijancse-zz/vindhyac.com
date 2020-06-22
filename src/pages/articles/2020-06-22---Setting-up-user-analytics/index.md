@@ -6,7 +6,6 @@ draft: false
 path: "/posts/Setting-up-user-analytics/"
 category: "Product"
 tags:
-
   - "Product Management"
   description: "Is this your first time setting up your user analytics for your product, I got you covered."
 ---
