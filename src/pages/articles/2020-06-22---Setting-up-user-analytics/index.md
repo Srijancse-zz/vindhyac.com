@@ -7,8 +7,9 @@ path: "/posts/setting-up-user-analytics/"
 category: "Product"
 tags:
   - "Product Management"
-  description: "Is this your first time setting up your user analytics for your product, I got you covered."
+description: "Is this your first time setting up your user analytics for your product, or even if you simply want to know how I think about setting it up, I got you covered."
 ---
+
 Before you set up user analytics, I think its necessary to understand why you must set something up that is comprehensive enough. Of course, you know you have to set it up, but how much should you track is always questionable for an app. My best bet is track as much as you can at launch, drop events as you progress & can see that a particular action is filling too much cognitive load for you or a data load on the system you are using. 
 
 The stack I have used as of now & I am familiar with is mentioned below, I don’t know if they are the best, but just the once I have not had many issues with. 
