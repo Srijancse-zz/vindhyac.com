@@ -26,7 +26,7 @@ I think GA & firebase give you aggregated data & not user level - Maybe you can 
 ***Note:** *When you are tracking notifications for an Indian audience predominantly with Chinese OEM’s you should really speak to the players in this space - MoEngage, WebEngage, CleverTap, etc. and see how they solve for this before you choose one, it is a critical piece in the ecosystem & half-baked data analytics won’t give you the full picture!*
 
 **Ok - so what should I track?**
-Firstly, make a spec sheet, there are many ways to do this, here is my[ sample sheet.](https://docs.google.com/spreadsheets/d/1nWmyQyJ7wjnYS44B7zNwb7YQMggoYeKzm0pUM_kRjao/edit?usp=sharing) Below is an explanation of what it consists of:
+Firstly, make a spec sheet, there are many ways to do this, here is my [sample sheet](https://docs.google.com/spreadsheets/d/1nWmyQyJ7wjnYS44B7zNwb7YQMggoYeKzm0pUM_kRjao/edit?usp=sharing)Below is an explanation of what it consists of:
 
 1. Events
 2. Event properties (Parameter) 
