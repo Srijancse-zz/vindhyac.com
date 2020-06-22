@@ -75,7 +75,7 @@ There are many more fields that you can keep adding, but I think for the beginni
 
 **Naming your events**
 
-Here is how I prefer to name them: **click_video_btn** **-** *what_thing_how*, basically do a verb_noun version of what you are trying to do within the app. Also make sure that you follow some norms, it need not be the same as here, but make sure your team follows this. Like for example here, everything is lower case separated by an underscore & in all the events that is triggered by button we will represent as *‘btn’*. More examples in the[ sample sheet](https://docs.google.com/spreadsheets/d/1nWmyQyJ7wjnYS44B7zNwb7YQMggoYeKzm0pUM_kRjao/edit?usp=sharing), but feel free to make your own rules, just stick with them. 
+Here is how I prefer to name them: **click_video_btn** **-** *what_thing_how*, basically do a verb_noun version of what you are trying to do within the app. Also make sure that you follow some norms, it need not be the same as here, but make sure your team follows this. Like for example here, everything is lower case separated by an underscore & in all the events that is triggered by button we will represent as *‘btn’*. More examples in the [sample sheet](https://docs.google.com/spreadsheets/d/1nWmyQyJ7wjnYS44B7zNwb7YQMggoYeKzm0pUM_kRjao/edit?usp=sharing), but feel free to make your own rules, just stick with them. 
 
 
 There is obviously so much you can measure & if you are implementing this for the first time, you might also think all of this is TOO MUCH already. But, remember you cannot learn & understand what your user & product unless you have some insights. Of course don't just be data-driven & forget the real customers you have been talking to especially at 0-1 stage. But, I guess that is a topic for another day. 
