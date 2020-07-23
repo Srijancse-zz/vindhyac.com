@@ -15,19 +15,17 @@ I get asked quite a lot, how one can break into product management. My own[ jour
 Firstly, anyone can be a PM. Dont let people tell you - You have to a degree, a path, or be good at a specific thing. There are many, many variations of a PM - design PM, Technical PM, Growth PM & more. So whatever your current path is, there is a PM adjacent role to it. So worry not! 
 
 **Okay, but how do I break in?** 
+
 The easiest way is to build something(I ofcourse didnt do this, but I also didnt have a twitter account & read zero business articles, so old me didnt know). You dont have to build engineering things though, play your strength. If you are good building communities, build something like The Product Folks, if you are good at design - make stuff like how can I make X app better, if you are in growth - grow your blog, someone’s twitter account, runs ads. Do it to show who you are & what you do well. 
 
 If you are not this person to take charge and build first, many PMs tell you that this is not good, you HAVE to show ownership. I dont fully agree, you are starting a new job & need support, which is okay. What you should then do is, target companies you want to be at. I would say look at startups & a break into it, then pick the path you need to go towards your dream company. Find places you want to apply at, and write to them. Say why you are a good fit. 
 
 I ofcourse dont want to draft that email for you, but here is a structural thought you could follow : 
 
-*Hey Founder,* *
-**
-**I like your startup for 1,2,3 reasons. I absolutely think I would be a great addition because of 3,4,5. I also noticed this on your app/website - My thoughts on this are 6,7. Think it will change this % or work in the favour of this \*thing\* you as a company believe in. I also saw this talk/podcast/webinar on the same problem you are trying to solve, I think you will love it.* *
-**
-**I look forward to hearing from you & working with you someday* 
+**Hey Founder,* 
 
-
+*I like your startup for 1,2,3 reasons. I absolutely think I would be a great addition because of 3,4,5. I also noticed this on your app/website - My thoughts on this are 6,7. Think it will change this % or work in the favour of this <thing> you as a company believe in. I also saw this talk/podcast/webinar on the same problem you are trying to solve, I think you will love it.*
+*I look forward to hearing from you & working with you someday*
 
 But, dont stop at one email, find multiple people you would love to work with & write to them. While you also are doing this, make your own case study up and answer it. Imagine if this was an ecommerce startup - Write something like - *“Growth experiments to increase checkout + UX changes”* 
 
@@ -51,4 +49,3 @@ Ok so what if you only got interested partially but dont even know it is the job
 Obviously there is more great content out there, but I would suggest you start here & see where it takes you! 
 
 Once you read all that, shadow more people at work and learn what happens ON THAT JOB. Dont jump into a career move unless you absolutely know :) 
- 
