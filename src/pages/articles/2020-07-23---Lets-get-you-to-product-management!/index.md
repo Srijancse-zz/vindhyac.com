@@ -22,10 +22,10 @@ If you are not this person to take charge and build first, many PMs tell you tha
 
 I ofcourse dont want to draft that email for you, but here is a structural thought you could follow : 
 
-**Hey Founder,* 
+***Hey Founder,***
 
-*I like your startup for 1,2,3 reasons. I absolutely think I would be a great addition because of 3,4,5. I also noticed this on your app/website - My thoughts on this are 6,7. Think it will change this % or work in the favour of this <thing> you as a company believe in. I also saw this talk/podcast/webinar on the same problem you are trying to solve, I think you will love it.*
-*I look forward to hearing from you & working with you someday*
+***I like your startup for 1,2,3 reasons. I absolutely think I would be a great addition because of 3,4,5. I also noticed this on your app/website - My thoughts on this are 6,7. Think it will change this % or work in the favour of this <thing> you as a company believe in. I also saw this talk/podcast/webinar on the same problem you are trying to solve, I think you will love it.***
+***I look forward to hearing from you & working with you someday***
 
 But, dont stop at one email, find multiple people you would love to work with & write to them. While you also are doing this, make your own case study up and answer it. Imagine if this was an ecommerce startup - Write something like - *“Growth experiments to increase checkout + UX changes”* 
 
