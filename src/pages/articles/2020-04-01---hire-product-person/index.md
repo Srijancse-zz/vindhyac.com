@@ -4,7 +4,7 @@ date: "2020-04-01T23:46:37.121Z"
 layout: post
 draft: false
 path: "/posts/hire-product-person/"
-category: "Product"
+category: "Product Hiring"
 tags:
   - "Product Management"
   - "Learnings"
