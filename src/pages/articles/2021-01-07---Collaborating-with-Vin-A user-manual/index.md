@@ -14,11 +14,11 @@ I am so excited to always collaborate & work with people across the world. Now, 
 
 **How I communicate:**
 
-1. I tend to speak slowly when I am explaining something the first time. I always take the “teacher” approach to things & give you the tiniest detail you may actually not be interested in. So if you think I am doing this to you, tell me where you are on the topic & Ill adjust to it. 
+1. I tend to speak slowly when I am explaining something the first time. I always take the “teacher” approach to things & give you the tiniest detail you may actually not be interested in. So if you think I am doing this to you, tell me where you are on the topic & I'll adjust to it. 
 2. I tend to write longer messages, email & documents - because I think context is needed to even a new person that reads the document. I usually leave comments to my own writing. This may confuse some folks, just leave comments on these messages & I will respond. 
 3. I usually smile through every conversation, this is not me agreeing - It is me being present and encouraging. 
 4. I am awful at giving constructive feedback head-on. I will usually tell them very subtly. If you are confused about this, just ask me to be direct. 
-5. On the contrary to the above point, I prefer very honest, direct feedback about myself. So you dont have to sugar-coat anything - If I am bad at something, just tell me that & I will probably ask you howI can improve, so I would appreciate it if you had that in mind too. 
+5. On the contrary to the above point, I prefer very honest, direct feedback about myself. So you dont have to sugar-coat anything - If I am bad at something, just tell me that & I will probably ask you how I can improve, so I would appreciate it if you had that in mind too. 
 6. I usually read all my messages the day I receive them & respond to things as I see necessary, so if you think you needed to hear from me but haven't, please feel free to write to me again after 3-5 days(will vary according to the urgency)
 7. I really do not like small talk. I absolutely hate anyone asking me - “ How are you?” and following it up with *“Could you do x,y for me?”* Just be as direct as you can! 
 8. I don't have a communication channel I prefer - I will leave it upto you to decide what works best. 
@@ -54,11 +54,10 @@ I am so excited to always collaborate & work with people across the world. Now, 
 
 **Things to know about me - (random unimportant stuff):**
 
-1. I don't drink coffee or tea. I also don't do alcohol. 
-2. There is no real reason for this - I just saw when I was of legal drinking age that most people got addicted to things & I didn't want to risk addiction.
-3.  I dance. It makes me really happy to be in the flow. 
-4. I love picking skills from people. So if you are ever looking for a dedicated student - I will commit 100% to being that. 
-5. I don't listen to music ( it is my worst quality, I know) I can't plug in my earphones & just listen. Sure, if it is a dance song I will move to it, but otherwise unfortunately not. 
+1. I don't drink coffee or tea. I also don't do alcohol. There is no real reason for this - I just saw when I was of legal drinking age that most people got addicted to things & I didn't want to risk addiction.
+2.  I dance. It makes me really happy to be in the flow. 
+3. I love picking skills from people. So if you are ever looking for a dedicated student - I will commit 100% to being that. 
+4. I don't listen to music ( it is my worst quality, I know) I can't plug in my earphones & just listen. Sure, if it is a dance song I will move to it, but otherwise unfortunately not. 
 
 **Things I need to improve on :** 
 
