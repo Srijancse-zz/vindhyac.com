@@ -1,6 +1,6 @@
 ---
 title: Building better MVP
-date: "2021-03-10T12:37:54Z"
+date: "2021-01-25T12:37:54Z"
 layout: post
 draft: false
 path: "/posts/A-good-product-begins-with-better-MVP/"
