@@ -1,6 +1,6 @@
 ---
 title: Three things to look for when interviewing at a startup 
-date: "2021-04-5T12:37:54Z"
+date: "2021-04-15T12:37:54Z"
 layout: post
 draft: false
 path: "/posts/Interviewing-for-a-startup-my-thoughts-what-to-look-for/"
