@@ -7,7 +7,7 @@ path: "/posts/What-you-do-is-who-you-are/"
 category: "Business"
 tags:
   - "Culture"
-description: "What I learnt from [@bhorowitz](https://twitter.com/bhorowitz) new book - What you do is who you are. What it taught me particularly about culture."
+description: "What I learnt from Horowitz's new book - What you do is who you are. What it taught me particularly about culture."
 ---
 
 
