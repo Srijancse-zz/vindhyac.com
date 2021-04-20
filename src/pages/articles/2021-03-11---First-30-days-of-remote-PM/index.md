@@ -1,6 +1,6 @@
 ---
 title: What to do in your first 30 days as a remote Product Manager
-date: "2021-01-11T12:37:54Z"
+date: "2021-04-11T12:37:54Z"
 layout: post
 draft: false
 path: "/posts/First-30-days-of-remote-PM/"
